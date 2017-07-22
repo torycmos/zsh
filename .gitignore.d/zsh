@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/antigen
+!/.gitignore.d
+!/.gitignore.d/zsh
+!/.gitmodules
+!/.zshrc
+!/.vim/bundle
+!/.vim/bundle/Vundle.vim
