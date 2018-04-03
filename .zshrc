@@ -41,6 +41,9 @@ zsh-users/zsh-history-substring-search
 joel-porquet/zsh-dircolors-solarized.git
 git
 git-extras
+docker
+docker-compose
+docker-machine
 systemd
 vi-mode
 EOBUNDLES
