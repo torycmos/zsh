@@ -63,9 +63,9 @@ alias l='ls -CF'
 alias lS='ls -1FSsh'
 alias lart='1Fcart'
 alias lrt='1Fcrt'
-alias zshrc='$EDITOR ~/.zshrc'
 alias h=' history | tail -n 50'
 alias hgrep=' history | grep'
+alias vimt='vim $(ls -t | head -1)'
 
 setopt APPEND_HISTORY
 setopt EXTENDED_HISTORY
